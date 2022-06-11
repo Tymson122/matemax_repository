@@ -1,0 +1,8 @@
+
+\*************************/
+/Witaj w naszym programie!\
+\*************************/
+
+Wybierz co chcesz dzisiaj robic (wpisz numer):
+1. obliczanie jednostek
+2. wzory matematyczne
